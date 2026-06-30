@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } Form 'vite'
+import react Form '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
